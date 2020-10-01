@@ -9,6 +9,6 @@ Also, I will be changing the language I code in every week!
 
 * Day 1: [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)
 
-    > Backtracking | 
-    > Time: O(1) |
-    > Space: O(1)
+    > Two Pointer | 
+    > Time: O(1) [Each function call] |
+    > Space: O(n) 
