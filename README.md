@@ -12,3 +12,9 @@ Also, I will be changing the language I code in every week!
     > Two Pointer | 
     > Time: O(1) [Each function call] |
     > Space: O(n) 
+
+* Day 2: [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/)
+
+    > Backtracking | 
+    > Time: O(2^n) |
+    > Space: O(n) 
