@@ -24,3 +24,9 @@ Also, I will be changing the language I code in every week!
     > Hashing | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 4: [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/)
+
+    > Sorting | 
+    > Time: O(nlogn) |
+    > Space: O(1) 
