@@ -29,4 +29,10 @@ Also, I will be changing the language I code in every week!
 
     > Sorting | 
     > Time: O(nlogn) |
-    > Space: O(1) 
+    > Space: O(1)
+    
+* Day 5: [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/)
+
+    > Bitwise Manipulation | 
+    > Time: O(1) |
+    > Space: O(1)
