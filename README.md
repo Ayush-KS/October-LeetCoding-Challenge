@@ -36,3 +36,9 @@ Also, I will be changing the language I code in every week!
     > Bitwise Manipulation | 
     > Time: O(1) |
     > Space: O(1)
+
+* Day 6: [Insert into a Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/)
+
+    > DFS | 
+    > Time: O(logn) |
+    > Space: O(1)
