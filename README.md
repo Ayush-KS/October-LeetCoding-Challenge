@@ -42,3 +42,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(logn) |
     > Space: O(1)
+
+* Day 7: [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1)
