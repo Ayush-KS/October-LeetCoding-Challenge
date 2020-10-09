@@ -48,3 +48,12 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(1)
+
+
+## Week 2: October 8th – October 14th [Javascript]
+
+* Day 8: [Binary Search](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)
+
+    > Binary Search | 
+    > Time: O(log(n)) |
+    > Space: O(1)
