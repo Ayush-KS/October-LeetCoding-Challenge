@@ -58,7 +58,7 @@ Also, I will be changing the language I code in every week!
     > Time: O(log(n)) |
     > Space: O(1)
 
-* Day 9: [Serialize and Deserialize BST](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)
+* Day 9: [Serialize and Deserialize BST](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)
 
     > BFS | 
     > Time: O(n) |
