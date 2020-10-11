@@ -63,3 +63,9 @@ Also, I will be changing the language I code in every week!
     > BFS | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 10: [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/)
+
+    > Greedy | 
+    > Time: O(nlogn) |
+    > Space: O(1)
