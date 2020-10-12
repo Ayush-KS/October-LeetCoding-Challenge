@@ -69,3 +69,9 @@ Also, I will be changing the language I code in every week!
     > Greedy | 
     > Time: O(nlogn) |
     > Space: O(1)
+
+* Day 11: [Remove Duplicate Letters](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/)
+
+    > Stack | 
+    > Time: O(n) |
+    > Space: O(n)
