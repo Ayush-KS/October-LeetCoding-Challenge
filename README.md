@@ -75,3 +75,9 @@ Also, I will be changing the language I code in every week!
     > Stack | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 12: [Buddy Strings](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1)
