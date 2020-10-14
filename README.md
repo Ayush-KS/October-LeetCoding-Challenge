@@ -55,7 +55,7 @@ Also, I will be changing the language I code in every week!
 * Day 8: [Binary Search](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)
 
     > Binary Search | 
-    > Time: O(log(n)) |
+    > Time: O(logn) |
     > Space: O(1)
 
 * Day 9: [Serialize and Deserialize BST](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)
@@ -81,3 +81,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 13: [Sort List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/)
+
+    > Merge Sort | 
+    > Time: O(nlogn) |
+    > Space: O(logn)
