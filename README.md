@@ -87,3 +87,9 @@ Also, I will be changing the language I code in every week!
     > Merge Sort | 
     > Time: O(nlogn) |
     > Space: O(logn)
+
+* Day 14: [House Robber](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/)
+
+    > Dynamic Programming | 
+    > Time: O(n) |
+    > Space: O(1)
