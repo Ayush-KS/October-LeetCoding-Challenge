@@ -114,3 +114,9 @@ Also, I will be changing the language I code in every week!
     > Hashing | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 17: [Repeated DNA Sequences](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)
+
+    > Dynamic Programming | 
+    > Time: O(n*k) |
+    > Space: O(n*k)
