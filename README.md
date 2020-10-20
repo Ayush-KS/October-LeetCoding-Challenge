@@ -115,8 +115,14 @@ Also, I will be changing the language I code in every week!
     > Time: O(n) |
     > Space: O(n)
 
-* Day 17: [Repeated DNA Sequences](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)
+* Day 18: [Best Time to Buy and Sell Stock IV](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)
 
     > Dynamic Programming | 
     > Time: O(n*k) |
     > Space: O(n*k)
+
+* Day 19: [Minimum Domino Rotations For Equal Row](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/)
+
+    > Greedy | 
+    > Time: O(n) |
+    > Space: O(1)
