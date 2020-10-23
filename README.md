@@ -138,3 +138,12 @@ Also, I will be changing the language I code in every week!
     > Stack | 
     > Time: O(n) |
     > Space: O(n)
+
+
+## Week 4: October 22nd – October 28th [C]
+
+* Day 22: [Minimum Depth of Binary Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)
+
+    > Stack | 
+    > Time: O(n) |
+    > Space: O(n)
