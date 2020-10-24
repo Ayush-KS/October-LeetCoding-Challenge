@@ -147,3 +147,9 @@ Also, I will be changing the language I code in every week!
     > Stack | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 23: [132 Pattern](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)
+
+    > Stack | 
+    > Time: O(n) |
+    > Space: O(n)
