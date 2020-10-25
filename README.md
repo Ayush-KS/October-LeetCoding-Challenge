@@ -153,3 +153,9 @@ Also, I will be changing the language I code in every week!
     > Stack | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 24: [Bag of Tokens](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/)
+
+    > Two Pointer | 
+    > Time: O(nlogn) |
+    > Space: O(1)
