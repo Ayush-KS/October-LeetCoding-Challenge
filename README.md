@@ -159,3 +159,9 @@ Also, I will be changing the language I code in every week!
     > Two Pointer | 
     > Time: O(nlogn) |
     > Space: O(1)
+    
+* Day 25: [Stone Game IV](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)
+
+    > Dynamic Programming | 
+    > Time: O(n^1.5) |
+    > Space: O(n)
