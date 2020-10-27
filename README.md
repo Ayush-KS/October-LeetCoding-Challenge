@@ -165,3 +165,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(n^1.5) |
     > Space: O(n)
+        
+* Day 26: [Champagne Tower](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/)
+
+    > Math | 
+    > Time: O(n^2) |
+    > Space: O(n)
