@@ -171,3 +171,9 @@ Also, I will be changing the language I code in every week!
     > Math | 
     > Time: O(n^2) |
     > Space: O(n)
+            
+* Day 27: [Linked List Cycle II](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)
+
+    > Floyd's Algorithn | 
+    > Time: O(n) |
+    > Space: O(1)
