@@ -174,6 +174,12 @@ Also, I will be changing the language I code in every week!
             
 * Day 27: [Linked List Cycle II](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)
 
-    > Floyd's Algorithn | 
+    > Floyd's Algorithm | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 28: [Summary Ranges](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)
+
+    > Recursion | 
+    > Time: O(n) |
+    > Space: O(n)
