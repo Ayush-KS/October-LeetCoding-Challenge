@@ -183,3 +183,12 @@ Also, I will be changing the language I code in every week!
     > Recursion | 
     > Time: O(n) |
     > Space: O(n)
+    
+
+## Week 5: October 29th – October 31st [C++]
+
+* Day 29: [Maximize Distance to Closest Person](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/)
+
+    > Two Pointer | 
+    > Time: O(n) |
+    > Space: O(1)
