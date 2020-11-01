@@ -198,3 +198,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(n^2) |
     > Space: O(n)
+        
+* Day 31: [Recover Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)
+
+    > Morris Traversal | 
+    > Time: O(n) |
+    > Space: O(1)
